@@ -1,3 +1,3 @@
-VPAtlas-postgres-db
+dbLoonAtlas
 
-A separate repo for VPAtlas database content to enable a remote dev server.
+A separate repo for Loon Atlas database implementation.
