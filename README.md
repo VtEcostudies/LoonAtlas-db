@@ -1,3 +1,3 @@
 dbLoonAtlas
 
-A separate repo for Loon Atlas database implementation.
+A separate repo for Loon Monitor database implementation.
